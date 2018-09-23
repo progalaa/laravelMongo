@@ -11,4 +11,6 @@ class Car extends Eloquent
 
 
     protected $guarded =['id'];
+
+
 }
